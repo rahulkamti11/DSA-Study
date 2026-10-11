@@ -1,0 +1,8 @@
+# Compiled Binaries and Object Files
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.pdb
+*.ilk
