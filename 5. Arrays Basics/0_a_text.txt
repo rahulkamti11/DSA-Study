@@ -1,0 +1,5 @@
+Questions :
+
+1. Write a code to take a no. and insert in into the array until the users wants and if the array get full , prompt the user that array is full so no more elemnst can be inserted into the array.
+2. Write a code to pop element from the array until it is empty.
+3. Write a code to take a no. and find it and delete it from the array until the users wants and if the array get empty , prompt the user that array is empty so no more elemnst can be deleted from the array.
