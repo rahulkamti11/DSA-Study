@@ -6,3 +6,6 @@
 *.obj
 *.pdb
 *.ilk
+
+# IDE and Editor Directories
+.vscode/
